@@ -1,0 +1,12 @@
+p.new{
+    color: rgb(191, 182, 255);
+}
+p.error{
+        color: lightpink;
+    }
+    p.success{
+        color: lightpink
+    }
+    p.error{
+        border: 1px dashed palevioletred;
+    }
